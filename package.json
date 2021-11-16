@@ -1,0 +1,26 @@
+{
+  "name": "countyournumber",
+  "version": "1.0.0",
+  "description": "封装bignumber.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive --bail --slow 10 "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helloHT/countYourNumber.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helloHT/countYourNumber/issues"
+  },
+  "homepage": "https://github.com/helloHT/countYourNumber#readme",
+  "dependencies": {
+    "bignumber.js": "^9.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^9.1.3"
+  }
+}
