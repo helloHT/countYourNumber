@@ -10,7 +10,7 @@ describe('计算器 test', () => {
 
   it('减法 test', async () => {
     const res = calculator.minus(0.3, 0.2);
-    assert.equal(res, 0.2, '结果不正确');
+    assert.equal(res, 0.1, '结果不正确');
   });
   
 });
