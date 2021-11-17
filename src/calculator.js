@@ -1,4 +1,4 @@
-const Bignumber = require('bignumber.js');
+const Bignumber = require("bignumber.js");
 
 module.exports = {
   /**
@@ -143,4 +143,4 @@ module.exports = {
     }
     return max.toNumber();
   },
-}
+};
