@@ -1,6 +1,6 @@
 {
   "name": "countyournumber",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "封装bignumber.js",
   "main": "index.js",
   "scripts": {
